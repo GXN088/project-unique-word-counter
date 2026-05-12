@@ -39,7 +39,7 @@ This project is divided into four core tasks that handle the complete lifecycle 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/GXN088/project-unique-word-counter/blob/main/README.md
    ```
 2. **Compile the project:**
    ```bash
