@@ -1,10 +1,9 @@
-Word Processing
+Modify the previous program to clean each word by removing punctuation and converting to lowercase. Print both the original and processed words. For example...
 
+Input:
+Coddy
 
-Now we'll process each word by removing punctuation and converting to lowercase. This will help us count words accurately regardless of their case or surrounding punctuation.
+Expected Output:
+Original[0,0]: Coddy
+Processed[0,0]: coddy
 
-String word = "Hello!";
-// Remove punctuation and convert to lowercase
-word = word.replaceAll("[^a-zA-Z ]", "").toLowerCase();
-System.out.println(word);
-// prints: hello
